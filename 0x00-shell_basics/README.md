@@ -1,1 +1,1 @@
-Script plus user and group ids
+Creating directory
