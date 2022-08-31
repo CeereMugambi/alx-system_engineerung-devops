@@ -1,1 +1,1 @@
-Task 0.Where am i
+Script that displays content list of current working directory
