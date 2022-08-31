@@ -1,1 +1,1 @@
-Display plus hidden files
+Script plus user and group ids
