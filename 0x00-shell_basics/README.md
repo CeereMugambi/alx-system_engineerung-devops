@@ -1,1 +1,1 @@
-Script for deleting file
+Script for deleting directory
