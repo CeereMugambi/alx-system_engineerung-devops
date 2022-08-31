@@ -1,1 +1,1 @@
-Script for listing lists from different directories
+Script for displying type of file
