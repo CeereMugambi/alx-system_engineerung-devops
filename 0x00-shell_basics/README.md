@@ -1,1 +1,1 @@
-Script that changes working diectory to users home directory
+Display plus hidden files
