@@ -1,1 +1,1 @@
-Script for moving to previous directory
+Script for listing lists from different directories
