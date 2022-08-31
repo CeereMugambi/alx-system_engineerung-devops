@@ -1,1 +1,1 @@
-Moving
+Script for moving files
