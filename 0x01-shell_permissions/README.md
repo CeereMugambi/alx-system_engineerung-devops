@@ -1,1 +1,1 @@
-Script for printing groups of currnt user
+Script for changing owner
