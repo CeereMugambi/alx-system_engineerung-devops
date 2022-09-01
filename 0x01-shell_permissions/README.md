@@ -1,1 +1,1 @@
-Script for changing permission to betty
+Script for printing effective user
