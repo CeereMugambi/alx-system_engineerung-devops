@@ -1,1 +1,1 @@
-Script for printing effective user
+Script for printing groups of currnt user
