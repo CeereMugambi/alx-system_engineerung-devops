@@ -1,1 +1,1 @@
-Script for giving owner and group user execute permissions and other users read permission
+Script to give pexecute permissions to everybody
