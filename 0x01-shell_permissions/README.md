@@ -1,1 +1,1 @@
-Script for adding xecute permisions for all usersto all subdirectories
+Script for creating directory eith permissions 751
