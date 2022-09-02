@@ -1,1 +1,1 @@
-Script for creating directory eith permissions 751
+Script for changing group owner
