@@ -1,1 +1,1 @@
-Script for giving all users all permissions only
+Script for permission rwx r-x wx
