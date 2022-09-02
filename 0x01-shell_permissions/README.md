@@ -1,1 +1,1 @@
-Script for permission rwx r-x wx
+Script for mirroring permissions
