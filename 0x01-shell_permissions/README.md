@@ -1,1 +1,1 @@
-Script for changing owner permissions with symbolic links
+script for changing owner of file if owned by a specific user(guillaume)
