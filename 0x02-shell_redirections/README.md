@@ -1,1 +1,1 @@
-Script that prints followed by a new line to standard output
+Script to display a confused smiley
